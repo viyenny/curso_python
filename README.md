@@ -1,2 +1,2 @@
 # curso_python
-en este repositorio están todos los ejercicios del curso de Python de Udemy  
+en este repositorio están todos los ejercicios del curso de Python de la U 
